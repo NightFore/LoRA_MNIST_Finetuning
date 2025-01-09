@@ -12,7 +12,6 @@ delete/
 # Data and logs (recursive match in any directory)
 data/
 logs/
-output/
 
 # PyTorch model files
 checkpoints/
