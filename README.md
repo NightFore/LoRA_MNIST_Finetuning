@@ -96,7 +96,7 @@ LoRA fine-tuning improved performance on digits `5-9`. The results for various L
 | 32        | 97.65%         |
 | 64        | 97.96%         |
 
-After fine-tuning, the model reached a **97.37% accuracy** on digits `5-9` with rank `32`.
+After fine-tuning, the model reached a **97.96% accuracy** on digits `5-9` with rank `64`.
 
 ---
 
